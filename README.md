@@ -18,3 +18,7 @@ Write a function, get_genre_variants(genre), that takes a genre string and retur
 
 **Artist Performance Summary:**
 Write a function, summarize_artist_performance(name), that takes an artist's name and prints various performance-related metrics, such as the number of tracks, solo tracks, collaborative tracks, average popularity of total/solo/collaborative tracks, and the number of collaborators.
+
+**Library used:** <br />
+
+pandas
